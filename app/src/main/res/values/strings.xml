@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PermissionCheck</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="runtime_permissions_txt">hello permission</string>
+</resources>
